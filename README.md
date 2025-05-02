@@ -8,3 +8,10 @@ Game Pass saves are untested.
 Save path: `%localappdata%\Sandfall\Saved\SaveGames\EXPEDITION_x.sav`    
 
 Simply drag and drop your save onto "clair_unlocker.exe." Your save will be overwritten.
+
+## Thank you
+- Uses [trumank's great uesave-rs library](https://github.com/trumank/uesave-rs) which does the heavy lifting.
+
+## Disclaimer   
+- I won't be responsible for the rare chance of your saves getting corrupted. The game does back them up anyway.
+- This tool has no partnership, sponsorship or endorsement with Sandfall Interactive or Kepler Interactive.
