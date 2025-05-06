@@ -1,4 +1,4 @@
-pub const ITEM_STRINGS: [&str; 136] = [
+pub const ITEM_STRINGS: [&str; 138] = [
     "FaceGustave_Bald",
     "FaceGustave_Charming",
     "FaceGustave_Curly",
@@ -11,6 +11,7 @@ pub const ITEM_STRINGS: [&str; 136] = [
     "FaceLune_Bald",
     "FaceLune_Braid",
     "FaceLune_Clea",
+    "FaceLune_Default_WhiteVer",
     "FaceLune_DoubleBraid",
     "FaceLune_Frenchbob",
     "FaceLune_Gestral",
@@ -57,6 +58,7 @@ pub const ITEM_STRINGS: [&str; 136] = [
     "FaceVerso_Baguette",
     "FaceVerso_Bald",
     "FaceVerso_Curly",
+    "FaceVerso_Default_WhiteVersion",
     "FaceVerso_Flowers",
     "FaceVerso_Gestral",
     "FaceVerso_Handsome",
