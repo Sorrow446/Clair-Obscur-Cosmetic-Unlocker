@@ -1,5 +1,6 @@
-pub const ITEM_STRINGS: [&str; 138] = [
+pub const ITEM_STRINGS: [&str; 139] = [
     "FaceGustave_Bald",
+    "FaceGustave_Baguette",
     "FaceGustave_Charming",
     "FaceGustave_Curly",
     "FaceGustave_Default_WhiteVersion",
